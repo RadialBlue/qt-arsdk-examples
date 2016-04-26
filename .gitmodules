@@ -4,3 +4,6 @@
 [submodule "icons"]
 	path = icons
 	url = https://github.com/google/material-design-icons.git
+[submodule "arsdk"]
+	path = arsdk
+	url = https://github.com/RadialBlue/qt-arsdk.git
